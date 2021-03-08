@@ -1,0 +1,41 @@
+# Site settings
+title:          Greed.thread
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:        ""
+url:            "http://greedthread.github.io/"
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         Greed.thread
+  url:          http://greedthread.github.io/
+  email:        greed.thread@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+# permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+# disqus:         jekyll-tale
