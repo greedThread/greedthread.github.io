@@ -1,15 +1,22 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Gread.thread"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+21년 3월 8일.  
+욕심이 많지만 그로인해 병목의 실타래에 엉켜버린 프로그래머  
+시작이 반이라는 말만 믿고 시작만 수십차례. 이곳이 알파이자 오메가가 되길.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+## Skill-list
+- NodeJS
+- Java
+- MySQL
+- Redis
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+## Interested
+- Unity 
+- vue.js
 
 Thanks for reading!
