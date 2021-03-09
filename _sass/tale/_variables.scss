@@ -16,6 +16,9 @@ $serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqu
 $sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;
 $monospaced: Menlo, Monaco, monospace !default;
 
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono);
+$noto-sans: 'Noto Sans KR';
+
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
      -moz-box-sizing: $type;
