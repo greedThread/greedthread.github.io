@@ -37,5 +37,6 @@ paginate:       5
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 disqus: http-greedthread-github-io
+comments: true
 # Disqus (Set to your disqus id)
 # disqus:         jekyll-tale
