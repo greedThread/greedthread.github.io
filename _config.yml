@@ -36,6 +36,6 @@ paginate:       5
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
+disqus: Greed.thread
 # Disqus (Set to your disqus id)
 # disqus:         jekyll-tale
