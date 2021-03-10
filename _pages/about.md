@@ -3,6 +3,7 @@ layout: post
 title: "About"
 author: "Gread.thread"
 permalink: /about/
+comments: false
 ---
 
 created on 21.03.08  

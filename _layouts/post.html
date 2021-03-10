@@ -23,7 +23,7 @@ layout: default
   {{ content }}
 </div>
 
-{% if site.comments %}
+{% if site.comments and page.comments != false %}
   {% include disqus_comments.html %}
 {% endif %}
 
