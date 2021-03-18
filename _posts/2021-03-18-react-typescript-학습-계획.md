@@ -21,4 +21,8 @@ javascript 안내서(mozila MDN) : https://developer.mozilla.org/ko/docs/Web/Jav
 typescript handbook(한글번역) : https://typescript-kr.github.io/pages/tutorials/ts-for-oopers.html
 react 자습서 : https://ko.reactjs.org/tutorial/tutorial.html#prerequisites
 
+---
+let isDone: boolean = false;   
+보다는 boolean isDone = false; 가 더편한걸...... 
 
+es30 쯤 되면 선택적으로 아예 형을 정의하고 쓰는 방식이 나오지 않을까하는 엉뚱한 상상을 해본다.
